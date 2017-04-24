@@ -1,0 +1,124 @@
+====player #2====
+False
+====player #5====
+False
+====player #6====
+True
+====player #7====
+True
+====player #9====
+True
+====player #12====
+True
+====player #13====
+False
+====player #17====
+False
+====player #18====
+False
+====player #19====
+False
+====player #20====
+False
+====player #22====
+True
+====player #24====
+True
+====player #27====
+True
+====player #28====
+True
+====player #29====
+False
+====player #30====
+True
+====player #32====
+False
+====player #34====
+True
+====player #37====
+True
+====player #38====
+False
+====player #40====
+False
+====player #41====
+True
+====player #43====
+True
+====player #44====
+True
+====player #46====
+False
+====player #47====
+True
+====player #49====
+False
+====player #51====
+True
+====player #52====
+True
+====player #53====
+False
+====player #56====
+False
+====player #71====
+True
+====player #73====
+True
+====player #74====
+True
+====player #75====
+False
+====player #76====
+True
+=======================================
+==========ACTUAL RESULT================
+6
+7
+9
+12
+22
+24
+27
+28
+30
+34
+37
+41
+43
+44
+47
+51
+52
+71
+73
+74
+76
+=======================================
+=========EXPECTED RESULT===============
+6
+7
+9
+12
+22
+24
+27
+28
+30
+34
+37
+41
+43
+44
+47
+51
+52
+71
+73
+74
+76
+=======================================
+==========RESULTS EQUAL================
+TRUE
+=======================================
